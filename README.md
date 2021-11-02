@@ -12,8 +12,7 @@ Unlike new cars, where price and supply are fairly deterministic and managed by 
 into play only in the last stage of the customer journey), used cars are very different beasts with huge uncertainty in both pricing and supply. Keeping this in mind, 
 the pricing scheme of these used cars becomes important in order to grow in the market.
 
-As a senior data scientist at Cars4U, a pricing model is needed that can effectively predict the price of used cars and can help the business in devising 
-profitable strategies using differential pricing. For example, if the business knows the market price, it will never sell anything below it. 
+A pricing model is needed that can effectively predict the price of used cars and can help the business in devising profitable strategies using differential pricing. For example, if the business knows the market price, it will never sell anything below it. 
 
 
 Objective:
